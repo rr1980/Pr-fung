@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.NETCore.App": {
+      "version": "1.1.0",
+      "type": "platform"
+    },
+    "Prüfung.Common": "1.0.0-*",
+    "Prüfung.Common.Respository": "1.0.0-*",
+    "Prüfung.Entitys": "1.0.0-*",
+    "Prüfung.ViewModels": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": "dnxcore56"
+    }
+  }
+}
